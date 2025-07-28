@@ -61,24 +61,18 @@ navsec/
 ├── icons/                  # Extension icons
 └── README.md               # This file
 📤 Exportable Reports
+
 After a scan, click Export to download a full HTML security report, including:
-
-Overall Security Score
-
-Vulnerability list by severity and category
-
-Evidence, recommendations, and compliance status
+- Overall Security Score
+- Vulnerability list by severity and category
+- Evidence, recommendations, and compliance status
 
 🧪 Technologies Used
-JavaScript ES6+
-
-Chrome Extension Manifest v3
-
-Regex-based content analysis
-
-Passive DOM inspection
-
-HTML5 + inline CSS reporting
+- JavaScript ES6+
+- Chrome Extension Manifest v3
+- Regex-based content analysis
+- Passive DOM inspection
+- HTML5 + inline CSS reporting
 
 🔒 Privacy First
 ❌ No data collection
