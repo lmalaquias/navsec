@@ -87,8 +87,9 @@ Licensed under the GNU General Public License v3.0
 
 🔓 Free to use, modify, and share — but always open-source.
 
-👨‍💻 Author: **Leandro Malaquias**
-📧 E-mail: lmalaquias.navsec@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/leandromalaquias/
-🔗 GitHub: https://github.com/lmalaquias
+> ## 👨‍💻 Author
+> **Leandro Malaquias**  
+> 📧 E-mail: lmalaquias.navsec@gmail.com  
+> 🔗 LinkedIn: https://www.linkedin.com/in/leandromalaquias/  
+> 🔗 GitHub: https://github.com/lmalaquias
 
