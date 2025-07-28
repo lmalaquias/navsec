@@ -87,9 +87,16 @@ Licensed under the GNU General Public License v3.0
 
 🔓 Free to use, modify, and share — but always open-source.
 
-> ## 👨‍💻 Author
-> **Leandro Malaquias**  
-> 📧 E-mail: lmalaquias.navsec@gmail.com  
-> 🔗 LinkedIn: https://www.linkedin.com/in/leandromalaquias/  
-> 🔗 GitHub: https://github.com/lmalaquias
+👨‍💻 Author
+Leandro Malaquias
+📧 Email: lmalaquias.navsec@gmail.com
+💼 LinkedIn: /in/leandromalaquias
+🐙 GitHub: @lmalaquias
 
+🙏 Acknowledgments
+
+OWASP for security best practices and guidelines
+Chrome Extension documentation and community
+
+⚠️ Disclaimer
+NavSec is designed for educational purposes and authorized security testing only. Users are responsible for complying with applicable laws and obtaining proper authorization before scanning any websites. The author assumes no liability for misuse of this tool.
