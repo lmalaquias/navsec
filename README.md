@@ -99,4 +99,4 @@ OWASP for security best practices and guidelines
 Chrome Extension documentation and community
 
 ⚠️ Disclaimer
-NavSec is designed for educational purposes and authorized security testing only. Users are responsible for complying with applicable laws and obtaining proper authorization before scanning any websites. The author assumes no liability for misuse of this tool.
+NavSec is designed for educational purposes only. The author assumes no liability for misuse of this tool.
