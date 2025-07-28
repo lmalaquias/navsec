@@ -26,7 +26,7 @@ NavSec is the most comprehensive passive web vulnerability and privacy scanner. 
 ## 📦 Installation
 
 ### ➤ Chrome, Brave and Edge Web Store
-> [Coming Soon]
+> [**Coming Soon**]
 
 ### ➤ Manual (Developer Mode)
 ```bash
@@ -74,15 +74,12 @@ After a scan, click Export to download a full HTML security report, including:
 - Passive DOM inspection
 - HTML5 + inline CSS reporting
 
-🔒 Privacy First
+🔒 Privacy First:
+
 ❌ No data collection
-
 ✅ Fully offline
-
 ✅ All scans run locally
-
 ✅ No cloud dependency
-
 ✅ Open source & auditable
 
 📄 License
@@ -90,4 +87,8 @@ Licensed under the GNU General Public License v3.0
 
 🔓 Free to use, modify, and share — but always open-source.
 
-👨‍💻 Author
+👨‍💻 Author: **Leandro Malaquias**
+📧 E-mail: lmalaquias.navsec@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/leandromalaquias/
+🔗 GitHub: https://github.com/lmalaquias
+
