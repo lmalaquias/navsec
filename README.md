@@ -66,13 +66,6 @@ After a scan, click Export to download a full HTML security report, including:
 - Vulnerability list by severity and category
 - Evidence, recommendations, and compliance status
 
-🧪 Technologies Used
-- JavaScript ES6+
-- Chrome Extension Manifest v3
-- Regex-based content analysis
-- Passive DOM inspection
-- HTML5 + inline CSS reporting
-
 🔒 Privacy First:
 
 ❌ No data collection
