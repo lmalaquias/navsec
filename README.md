@@ -17,9 +17,8 @@ NavSec is the most comprehensive passive web vulnerability and privacy scanner. 
 
 1. **Install** from the Chrome Web Store or load it manually
 2. Navigate to any site
-3. Click the NavSec icon to trigger a passive scan
-4. Get instant insights on vulnerabilities, headers, data leaks, and privacy risks
-5. Export full HTML security reports (with score and detailed findings)
+3. Get instant insights on vulnerabilities, headers, data leaks, and privacy risks
+4. Export full HTML security reports (with score and detailed findings)
 
 ---
 
