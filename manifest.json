@@ -1,0 +1,56 @@
+{
+  "manifest_version": 3,
+  "name": "NavSec Vulnerability Scanner",
+  "version": "1.1",
+  "author": "Leandro Malaquias",
+  "description": "Comprehensive security scanner with advanced XSS detection, API security analysis, and authentication testing",
+  
+  "permissions": [
+    "activeTab",
+    "storage",
+    "webRequest",
+    "notifications",
+    "downloads",
+    "tabs",
+    "scripting"
+  ],
+  
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  
+  "web_accessible_resources": [
+    {
+      "resources": ["*.png", "*.jpg", "*.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
