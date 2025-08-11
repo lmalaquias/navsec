@@ -49,15 +49,11 @@ Score Range	Meaning
 0–49	🔴 Critical issues found
 
 📁 Project Structure
-bash
-Copiar
-Editar
 navsec/
 ├── manifest.json           # Extension configuration
 ├── background.js           # Scan management & export engine
 ├── content.js              # DOM-based passive scanner
 ├── popup.html / popup.js   # UI dashboard with live scan results
-├── icons/                  # Extension icons
 └── README.md               # This file
 📤 Exportable Reports
 
