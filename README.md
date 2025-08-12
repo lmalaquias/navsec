@@ -25,7 +25,7 @@ NavSec is the most comprehensive passive web vulnerability and privacy scanner. 
 ## 📦 Installation
 
 ### ➤ Chrome, Brave and Edge Web Store
-> [**Coming Soon**]
+> Available to install.
 
 ### ➤ Manual (Developer Mode)
 ```bash
